@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "412625397317",
+    "project_id": "movfire",
+    "storage_bucket": "movfire.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:412625397317:android:ac217b80a677a7352fa52c",
+        "android_client_info": {
+          "package_name": "org.apps.mov"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "412625397317-u1hu1a3vohf6pqmmpshv5liko2d1ve2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgeRQba5wdUST9R70kAdJ6-Hbdo0L6z3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "412625397317-u1hu1a3vohf6pqmmpshv5liko2d1ve2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
